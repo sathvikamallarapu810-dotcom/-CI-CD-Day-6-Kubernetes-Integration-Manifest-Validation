@@ -1,0 +1,1 @@
+# -CI-CD-Day-6-Kubernetes-Integration-Manifest-Validation
